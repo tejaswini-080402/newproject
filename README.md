@@ -1,2 +1,1 @@
-# newproject
-a beginner level project on sql 
+# Made by us
